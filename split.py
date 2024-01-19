@@ -66,3 +66,7 @@ were not then clearly distinguished from mathematics [19].
 '''
 message=message.replace("\n"," ").replace("-  ","")
 chunks = splitter.chunks(message, max_tokens)
+
+for e in chunks:
+    print(e)
+    print("***************************************************")
