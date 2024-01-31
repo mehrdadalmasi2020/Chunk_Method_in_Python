@@ -4,4 +4,4 @@ However, you can change the pre-trained model based on your text language to get
 I have employed "bert-base-uncased" here. 
 
 Do not forget to install the required libraries based on the "import" commands. 
-Also, you need to update " max_tokens " to a suitable size for feeding the LLM.
+Also, you need to update " max_tokens " to a suitable size for feeding the LLM (if needed).
