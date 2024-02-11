@@ -3,3 +3,6 @@ However, you can change the pre-trained model based on your text language to get
 I have employed "bert-base-uncased" here.
 Do not forget to install the required libraries based on the "import" commands. 
 Also, you can update " max_tokens " to a suitable size for feeding the LLM (if needed).
+
+Please read my article here:
+https://medium.com/@mehrdad.al.2023/how-do-we-cope-with-long-documents-when-we-want-to-process-them-with-large-language-models-f0fd0c154e4d
